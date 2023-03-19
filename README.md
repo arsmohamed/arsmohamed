@@ -3,7 +3,7 @@
 <Img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=arsmohamed&show_icons=true&theme=radical" />
 <Img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsmohamed&layout=compact&theme=tokyonight" />   
 
-##  I'm interested in the following languages 👋
+##  I'm interested in the following Tech. 👋
 
 <img align="left"  src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img align="left"  src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
