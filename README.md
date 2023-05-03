@@ -1,6 +1,5 @@
 ## Hi there , I'm Amr 👋
  
-<Img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=arsmohamed&show_icons=true&theme=radical" />
 
 ##  I'm interested in the following Tech. 👋
 
